@@ -1,0 +1,23 @@
+body {
+background-image: linear-gradient( #ffffff, #0000FF);
+}
+
+div.picture1 {
+   width:750px;
+   height:500px;
+   background-image:url("https://images.squarespace-cdn.com/content/v1/57e6d6f559cc68725d5b820e/1618250276311-1NHAMY7TY8VN0BTV3YFJ/IMG_2373.JPG?format=750w");
+}
+
+.border {
+  border: 10px solid #ffffff;
+  border-radius: 4px;
+  width: 500px;
+}
+
+.circle {
+  border-radius: 50%;
+}
+
+.roundedc {
+  border-radius: 8px;
+}
